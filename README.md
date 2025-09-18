@@ -9,6 +9,6 @@ A simple JavaScript project that fetches recipes data from the [Forkify API](htt
 - Each recipe is shown as a card.
 
 ## Technologies Used
-- HTML5
-- CSS3 / Bootstrap 4
+- HTML
+- Bootstrap 4
 - JavaScript (XMLHttpRequest)
